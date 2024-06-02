@@ -37,3 +37,4 @@ A program that determines the type of a triangle based on the lengths of its sid
 2. Run the application using the command: <br>
    <code>dotnet run</code> <br>
 Enter the lengths of the three sides when prompted.
+                                                          https://github.com/Opoku19/DCIT318-Programming-ll-10947727
